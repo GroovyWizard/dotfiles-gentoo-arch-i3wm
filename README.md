@@ -1,5 +1,5 @@
 # Fedora I3 Dotfiles
-My personal DOTFILES for my Fedora Workstation
+My personal DOTFILES for my Fedora Workstation, focused on simplicity and 0 distractions.
 
 Stuff:
 
